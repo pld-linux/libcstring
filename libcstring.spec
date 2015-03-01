@@ -2,7 +2,7 @@ Summary:	Library to support cross-platform C string functions
 Summary(pl.UTF-8):	Biblioteka do obsługi wieloplatformowych funkcji na łańcuchach C
 Name:		libcstring
 Version:	20150101
-Release:	2
+Release:	3
 License:	LGPL v3+
 Group:		Libraries
 Source0:	https://github.com/libyal/libcstring/archive/%{version}/%{name}-%{version}.tar.gz
