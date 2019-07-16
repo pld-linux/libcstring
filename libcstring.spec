@@ -5,6 +5,7 @@ Version:	20150101
 Release:	3
 License:	LGPL v3+
 Group:		Libraries
+#Source0Download: https://github.com/libyal/libcstring/releases
 Source0:	https://github.com/libyal/libcstring/archive/%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	79652b81cd3b97a1b4f31442a224b78d
 URL:		https://github.com/libyal/libcstring/
